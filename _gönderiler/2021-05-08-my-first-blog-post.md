@@ -1,5 +1,5 @@
 ---
-title: 2021-05-08-my-first-blog-post.md"
+title: 2021-05-08-my-first-blog-post
 date: 2021-05-08
 ---
 
