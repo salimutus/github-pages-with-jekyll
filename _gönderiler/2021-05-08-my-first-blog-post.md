@@ -4,9 +4,6 @@ date: 2021-05-08
 ---
 
 ---
-title: "Welcome to my blog"
-author : salim utus
-instagram_account : salimutus
+tittle : 2021-05-08 
+author : Salim Utuş
 ---
-
-I'm glad you are here. I plan to talk about ...
