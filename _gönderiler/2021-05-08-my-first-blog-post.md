@@ -1,9 +1,12 @@
 ---
-title: "2021-05-08-my-first-blog-post.md"
+title: 2021-05-08-my-first-blog-post.md"
 date: 2021-05-08
 ---
 
 ---
- başlık : " Bloguma hoş geldiniz "
- tarihi : 2021-05-08 
+title: "Welcome to my blog"
+author : salim utus
+instagram_account : salimutus
 ---
+
+I'm glad you are here. I plan to talk about ...
